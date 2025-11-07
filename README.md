@@ -1,9 +1,5 @@
 # 🛡️ Operational-Governance Framework Mapping – ISO 27001 & NIST CSF Alignment
-
-![Cybersecurity Practices Flowchart](A_flowchart-style_digital_graphic_illustrates_cybe.png)
-
 ---
-
 ## **Overview**
 
 This repository maps five key cybersecurity operational scenarios to major governance and compliance frameworks—**ISO 27001**, **NIST CSF**, and **SOC 2 Trust Principles**. Each scenario represents a critical control domain that supports proactive security, compliance maturity, and business resilience.
@@ -15,8 +11,11 @@ This repository maps five key cybersecurity operational scenarios to major gover
 ### **1. Incident Response & Threat Management**
 
 **Category:** 🔹 **Continuous Monitoring & Threat Detection**
+
 **Explanation:** Focuses on proactive detection, containment, and mitigation of threats through SIEM tuning, monitoring, and structured response workflows.
+
 *Related NIST Functions:* Detect (DE), Respond (RS)
+
 *Supporting ISO 27001 Controls:* A.16 (Information Security Incident Management)
 
 ---
@@ -24,8 +23,11 @@ This repository maps five key cybersecurity operational scenarios to major gover
 ### **2. Vulnerability Remediation & Patch Prioritization**
 
 **Category:** 🔹 **Risk Assessment & Threat Modeling**
+
 **Explanation:** Vulnerability management is a core activity of assessing and mitigating risk exposure. It supports risk modeling by prioritizing remediation based on asset criticality and CVSS.
+
 *Related NIST Functions:* Identify (ID.RA), Protect (PR.IP)
+
 *Supporting ISO 27001 Controls:* A.12.6 (Technical Vulnerability Management)
 
 ---
@@ -33,8 +35,11 @@ This repository maps five key cybersecurity operational scenarios to major gover
 ### **3. Business Continuity & Disaster Recovery (BC/DR)**
 
 **Category:** 🔹 **Metrics, Reporting & Executive Dashboards**
+
 **Explanation:** BC/DR integrates governance and measurement—tracking RTO, RPO, recovery validation, and service uptime. These metrics inform risk and continuity dashboards for executive visibility.
+
 *Related NIST Functions:* Recover (RC)
+
 *Supporting ISO 27001 Controls:* A.17 (Information Security Aspects of Business Continuity)
 
 ---
@@ -42,8 +47,11 @@ This repository maps five key cybersecurity operational scenarios to major gover
 ### **4. Security Policy & Procedure Development**
 
 **Category:** 🔹 **Security Architecture & Firewall/VPN Management (Governance Layer)**
+
 **Explanation:** Policy and procedure development underpin the governance of network security. Defines access control, network segmentation, and configuration standards guiding firewall and VPN management.
+
 *Related NIST Functions:* Identify (ID.GV), Protect (PR.IP)
+
 *Supporting ISO 27001 Controls:* A.5 (Information Security Policies)
 
 ---
@@ -51,8 +59,11 @@ This repository maps five key cybersecurity operational scenarios to major gover
 ### **5. Cybersecurity Awareness & Phishing Simulation**
 
 **Category:** 🔹 **Vendor & Third-Party Security Management (User Risk Management)**
+
 **Explanation:** Awareness and phishing simulations address the human element of internal and external risk. They align with vendor-led awareness platforms and reduce social engineering threats.
+
 *Related NIST Functions:* Protect (PR.AT)
+
 *Supporting ISO 27001 Controls:* A.7.2.2 (Information Security Awareness, Education, and Training)
 
 ---
@@ -80,5 +91,5 @@ This repository maps five key cybersecurity operational scenarios to major gover
 
 ---
 
-**Author:** Christopher Rajasekar | **Version:** 1.0 | **License:** MIT
+**Author:** Christopher Rajasekar | **Version:** 1.0 | **License:** 
 📂 **Repository:** *Cybersecurity-Governance-Framework-Mapping*
